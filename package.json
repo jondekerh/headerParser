@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/jondekerh/headerParser#readme",
   "dependencies": {
-    "express-useragent": "^1.0.12",
-    "request": "^2.88.0"
+    "express-useragent": "^1.0.12"
   },
   "devDependencies": {
     "chai": "^4.2.0",
